@@ -1,0 +1,15 @@
+{
+  "name": "uni-ai-starter-frontend",
+  "version": "1.0.0",
+  "description": "AI Chat frontend built with uni-app Vue 3",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["uni-app", "ai", "chat", "vue3"],
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "marked": "^17.0.4"
+  }
+}

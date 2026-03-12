@@ -1,0 +1,6 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+python-dotenv==1.0.1
+dashscope==1.20.15
+requests==2.32.3
+pydantic==2.10.4
